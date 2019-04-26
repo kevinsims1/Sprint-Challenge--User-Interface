@@ -167,3 +167,41 @@ header {
 #box10 {
     background-color: teal;
 }
+
+.top-sec {
+    display: flex;
+    border-bottom: 1px dotted black;
+    margin: 20px 0;
+    padding: 20px 0;
+} 
+
+.mid-sec {
+    display: flex;
+    border-bottom: 1px dotted black;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.bottom-sec {
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.top-p {
+    border-bottom: 1px dotted black;
+    padding: 20px 0;
+}
+
+button {
+    width: 40%;
+    height: 30px;
+    margin-top: 100px 0;
+    border-color: black;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+
+
