@@ -144,3 +144,26 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header {
+    display: flex;
+    padding: 20px 0;
+    margin: 20px 0; 
+}
+
+    nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    width: 80%;
+    align-items: center;
+    }
+
+    .mid-img {
+        padding: 20px 0;
+        margin: 20px 0;
+    }
+
+#box10 {
+    background-color: teal;
+}
